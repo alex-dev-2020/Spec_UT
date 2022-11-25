@@ -26,3 +26,5 @@
 - [Добавлены сведения о Внешней Обработке](https://github.com/alex-dev-2020/Spec_UT/commit/765923744b9f81a2933d7405f0fc01a3ebb757a7) 
 
 - [Добавлена Функция `ПолучитьТаблицуКоманд`](https://github.com/alex-dev-2020/Spec_UT/commit/f8ba5a4ecdaceb4bfc33aeb3671bc9fff564b231)
+
+- [Добавлена Процедура `ДобавитьКоманду`](https://github.com/alex-dev-2020/Spec_UT/commit/f5b7b88f009493c3a532f5ba4d92889b7f6488b5)
