@@ -28,3 +28,5 @@
 - [Добавлена Функция `ПолучитьТаблицуКоманд`](https://github.com/alex-dev-2020/Spec_UT/commit/f8ba5a4ecdaceb4bfc33aeb3671bc9fff564b231)
 
 - [Добавлена Процедура `ДобавитьКоманду`](https://github.com/alex-dev-2020/Spec_UT/commit/f5b7b88f009493c3a532f5ba4d92889b7f6488b5)
+
+- [Добавлена Процедура `Печать`](https://github.com/alex-dev-2020/Spec_UT/commit/daf35151c5df8c09889954d944cf7e7dea2a5228) **обязательно** `Экспорт`
