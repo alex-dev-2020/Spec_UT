@@ -24,3 +24,5 @@
 ###### Модуль Объекта
 
 - [Добавлены сведения о Внешней Обработке](https://github.com/alex-dev-2020/Spec_UT/commit/765923744b9f81a2933d7405f0fc01a3ebb757a7) 
+
+- [Добавлена Функция `ПолучитьТаблицуКоманд`](https://github.com/alex-dev-2020/Spec_UT/commit/f8ba5a4ecdaceb4bfc33aeb3671bc9fff564b231)
