@@ -30,3 +30,5 @@
 - [Добавлена Процедура `ДобавитьКоманду`](https://github.com/alex-dev-2020/Spec_UT/commit/f5b7b88f009493c3a532f5ba4d92889b7f6488b5)
 
 - [Добавлена Процедура `Печать`](https://github.com/alex-dev-2020/Spec_UT/commit/daf35151c5df8c09889954d944cf7e7dea2a5228) **обязательно** `Экспорт`
+
+- [Добавлена Процедура `СформироватьПечатнуюФормуЧерезСКД`](https://github.com/alex-dev-2020/Spec_UT/commit/f946804de9349063c428a534a1bbbc455205a471)
