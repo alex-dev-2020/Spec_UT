@@ -26,5 +26,5 @@
     - Модуль  Объекта :
         - [исходник, Область `Обработчики Событий`](https://github.com/alex-dev-2020/Spec_UT/commit/d0009575302ba6bcf0384e4cb4ca2856c9a4be2b)
         - [добавляем новый Тип Документа-основания](https://github.com/alex-dev-2020/Spec_UT/commit/f98a62aac86d4f551b96698269ab4e47a45ace05)
-        -[описываем Процедуру`экз_ЗаполнитьПоПринятьПоФакту`](https://github.com/alex-dev-2020/Spec_UT/commit/80ec6e319c8bfb193dd3925017bf594de98e5c8d)  Область `ИнициализацияИЗаполнение`
+        - [описываем Процедуру`экз_ЗаполнитьПоПринятьПоФакту`](https://github.com/alex-dev-2020/Spec_UT/commit/80ec6e319c8bfb193dd3925017bf594de98e5c8d)  Область `ИнициализацияИЗаполнение`
         
