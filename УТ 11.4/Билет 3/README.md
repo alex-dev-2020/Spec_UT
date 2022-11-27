@@ -21,7 +21,7 @@
     - Команда :
         - Синоним : *Приходный Ордер на товары*
             - Тип Параметра Команды : `ДокументСсылка.экз_ПриятьПоФакту`
-        - [Модуль Команды]https://github.com/alex-dev-2020/Spec_UT/commit/19a23b0cf808d9d697d5cb4cec5a7ea1eac2da67)
+        - [Модуль Команды](https://github.com/alex-dev-2020/Spec_UT/commit/19a23b0cf808d9d697d5cb4cec5a7ea1eac2da67)
 
     - Модуль  Объекта :
         - [исходник, Область `Обработчики Событий`](https://github.com/alex-dev-2020/Spec_UT/commit/d0009575302ba6bcf0384e4cb4ca2856c9a4be2b)
