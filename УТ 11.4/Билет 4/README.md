@@ -55,4 +55,8 @@
         - [Модуль Формы](https://github.com/alex-dev-2020/Spec_UT/commit/b623a7032ef24c2f4ed4b95b1b5de4437f1d4e4f) - проверяем флаг `Утвержден`
         - [Модуль Формы](https://github.com/alex-dev-2020/Spec_UT/commit/8a59f9fca54c52a4eb1c0db3791d17ec031ad508) - приводим Дату к началу Текущего Месяца
     - [Создаем](https://github.com/alex-dev-2020/Spec_UT/commit/88b9e32db478a2166f5f019cbb4696b3f08e9fb1) Регистр Сведений в расширении
+    - Модуль Объекта Документа `экз_ПланЗакупок`:
+        - [добавляем:](https://github.com/alex-dev-2020/Spec_UT/commit/f5a1b508df4fd28d23354675309266afb60e16e5)
+            - проверку,  что План `Утвержден`;
+            - Обработку проведения  *(стандартное формирование Движений)*
              
