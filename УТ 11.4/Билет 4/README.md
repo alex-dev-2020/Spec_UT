@@ -120,7 +120,8 @@
                 -Значения:
                     - ` `
                     - `
-    ... to be continued
+
+... to be continued
 
 
     
